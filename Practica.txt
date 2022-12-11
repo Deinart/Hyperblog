@@ -3,4 +3,6 @@ Hola mundo, como se encuentran?
 Me llamo Daniel Martinez, soy de venezuela, estado Aragua, La Victoria
 Estoy aprendiendo programacion para trabajar
 
+que aprendere en esta clase
+
 esta linea es el final
